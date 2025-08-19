@@ -1,0 +1,16 @@
+nKHyPL4OXAD6ADXS
+
+Mongodb password
+username: omkargochademis
+---------------------------------------------
+Unsername: omkargochademis
+
+password: TYR9URMXGZmzqrBK
+
+for cluster in mongodb
+-------------------------------------
+
+mongodb+srv://omkargochademis:<db_password>@cluster0.dctthqj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+connection string for project in mngodb
+---------------------------------------
