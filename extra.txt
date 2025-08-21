@@ -14,3 +14,4 @@ mongodb+srv://omkargochademis:<db_password>@cluster0.dctthqj.mongodb.net/?retryW
 
 connection string for project in mngodb
 ---------------------------------------
+$env:MONGODB_URL = "mongodb+srv://omkargochademis:TYR9URMXGZmzqrBK@cluster0.dctthqj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
